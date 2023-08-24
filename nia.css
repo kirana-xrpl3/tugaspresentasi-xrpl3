@@ -1,0 +1,40 @@
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+body{
+    background-color: khaki;
+}
+p{
+    text-align: center;
+}
+
+.nam{
+    color: blueviolet;
+}
+.kelask{
+    color: blueviolet;
+}
+
+.absenw{
+    color: blueviolet;
+}
+.als{
+    color: blueviolet;
+}
+.wa{
+    color: blueviolet;
+
+}
+.tempattgl{
+    color: blueviolet;
+}
+.prestasi{
+    color: blueviolet;
+}
+.jabatan{
+    color: blueviolet;
+}
+
